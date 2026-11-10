@@ -2,39 +2,22 @@
   <img
     src="./shreya-profile.png"
     alt="Shreya Das - Anime Developer Artwork"
-    width="75%"
+    width="100%"
   />
 </p>
 
-<div align="center">
-
-# Hi, I'm Shreya Das 👋
-
-### Computer Science & AI Student · Developer · Open Source Contributor
-
-**Building at the intersection of Computer Science, AI, Finance & Technology.**
-
-<a href="https://github.com/sd2604">
-  <img src="https://img.shields.io/badge/GitHub-sd2604-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-</a>
-<a href="https://www.linkedin.com/in/shreya-das-319403368/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
-</a>
-
-</div>
-
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 B.Tech student in **Computer Science & Artificial Intelligence** at Newton School of Technology, Rishihood University.
-- 💻 Interested in **software engineering, full-stack development, AI/ML, and open source**.
-- 📈 Exploring **quantitative finance**, computational methods, and data-driven financial research.
-- 🧠 Enjoy solving problems with **Data Structures & Algorithms**.
-- 🌱 Currently strengthening my skills in backend development, databases, and applied machine learning.
-- 🎯 I believe in learning by building, contributing, and consistently improving.
+- B.Tech student in **Computer Science & Artificial Intelligence** at Newton School of Technology, Rishihood University.
+- Interested in **software engineering, full-stack development, AI/ML, and open source**.
+- Exploring **quantitative finance**, computational methods, and data-driven financial research.
+- Enjoy solving problems with **Data Structures & Algorithms**.
+- Currently strengthening my skills in backend development, databases, and applied machine learning.
+- I believe in learning by building, contributing, and consistently improving.
 
-## 🧭 Areas of Interest
+## Areas of Interest
 
 - Data Structures & Algorithms
 - Full-Stack & Backend Development
@@ -44,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Programming Languages
 
@@ -52,19 +35,19 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=8" alt="Python, C++, JavaScript and TypeScript icons"/>
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&perline=8" alt="HTML, CSS, React, Next.js, Tailwind CSS and Vite icons"/>
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=8" alt="Node.js, Express and FastAPI icons"/>
 </p>
 
-### 🗄️ Databases & Data Engineering
+### Databases & Data Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=8" alt="PostgreSQL, MySQL, MongoDB and Redis icons"/>
@@ -72,7 +55,7 @@
 
 **Database concepts:** DBMS, relational data modelling, ER diagrams, normalization, indexing, transactions, ACID properties, and query optimization.
 
-### 🤖 AI, Machine Learning & Data Science
+### AI, Machine Learning & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch,tensorflow&perline=8" alt="NumPy, Pandas, scikit-learn, PyTorch and TensorFlow icons"/>
@@ -88,7 +71,7 @@
 
 **Libraries & tools to explore:** yfinance, Statsmodels, SciPy, QuantLib, Backtesting.py, and VectorBT.
 
-### 🧰 Tools & DevOps
+### Tools & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,kubernetes,postman,figma,vscode&perline=8" alt="Git, GitHub, GitHub Actions, Linux, Docker, Kubernetes, Postman, Figma and VS Code icons"/>
@@ -96,7 +79,7 @@
 
 ---
 
-## 🐍 My GitHub Contributions
+## My GitHub Contributions
 
 <div align="center">
   <img
@@ -109,7 +92,7 @@
 ---
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/sd2604">
