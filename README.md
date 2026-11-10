@@ -14,7 +14,7 @@
 </p>
 
 ---
-
+  
 ## About Me
 
 - B.Tech student in **Computer Science & Artificial Intelligence** at Newton School of Technology, Rishihood University.
@@ -23,7 +23,7 @@
 - Enjoy solving problems with **Data Structures & Algorithms**.
 - Currently strengthening my skills in backend development, databases, and applied machine learning.
 - I believe in learning by building, contributing, and consistently improving.
-
+---
 ## Areas of Interest
 
 - Data Structures & Algorithms
@@ -33,101 +33,66 @@
 - Open Source Software
 
 ---
+<h2 align="center">Tech Stack</h2>
 
-## Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=8" alt="Python, C++, JavaScript and TypeScript icons"/>
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&perline=8" alt="HTML, CSS, React, Next.js, Tailwind CSS and Vite icons"/>
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=8" alt="Node.js, Express and FastAPI icons"/>
-</p>
-
-### Databases & Data Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=8" alt="PostgreSQL, MySQL, MongoDB and Redis icons"/>
-</p>
-
-**Database concepts:** DBMS, relational data modelling, ER diagrams, normalization, indexing, transactions, ACID properties, and query optimization.
-
-### AI, Machine Learning & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch,tensorflow&perline=8" alt="NumPy, Pandas, scikit-learn, PyTorch and TensorFlow icons"/>
-</p>
-
-### 📈 Quantitative Finance
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,postgres&perline=8" alt="Python, C++ and PostgreSQL icons relevant to quantitative computing"/>
-</p>
-
-**Exploring:** Financial data analysis, time-series analysis, financial modelling, backtesting, statistical modelling, and portfolio optimization.
-
-**Libraries & tools to explore:** yfinance, Statsmodels, SciPy, QuantLib, Backtesting.py, and VectorBT.
-
-### Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,kubernetes,postman,figma,vscode&perline=8" alt="Git, GitHub, GitHub Actions, Linux, Docker, Kubernetes, Postman, Figma and VS Code icons"/>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nextjs,tailwind,vite,nodejs,express,fastapi,postgres,mysql,mongodb,redis,git,github,githubactions,linux,docker,kubernetes,postman,figma,vscode,pytorch,tensorflow&perline=14&size=48"
+    width="100%"
+    alt="My Tech Stack"
+  />
 </p>
 
 ---
 
-## My GitHub Contributions
+<h2 align="center">✦ GitHub Activity ✦</h2>
 
-
----
-
-## 📊 GitHub Statistics
 
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=sd2604&show_icons=true&theme=tokyonight&hide_border=true&title_color=C4A7E7&icon_color=C4A7E7"
-  height="170"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd2604&layout=compact&theme=tokyonight&hide_border=true&title_color=C4A7E7"
-  height="170"
-  alt="Most Used Languages"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=sd2604&theme=tokyonight&hide_border=true&ring=C4A7E7&fire=C4A7E7"
-  width="70%"
-  alt="GitHub Contribution Streak"
-/>
-
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=sd2604&show_icons=true&theme=tokyonight&hide_border=true&title_color=C4A7E7&icon_color=C4A7E7"
+          alt="GitHub Statistics"
+          width="100%"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=sd2604&layout=compact&theme=tokyonight&hide_border=true&title_color=C4A7E7"
+          alt="Most Used Languages"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sd2604&theme=tokyonight&hide_border=true&ring=C4A7E7&fire=C4A7E7"
+    width="78%"
+    alt="GitHub Contribution Streak"
+  />
+</div>
+
 
 ---
 
-## 👀 Profile Visitors
+<h2 align="center">✦ Profile Visitors ✦</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=sd2604&label=VISITORS&color=bca7e8&style=for-the-badge"
+    alt="Profile Visitors"
+  />
+</p>
 
-<img
-  src="https://komarev.com/ghpvc/?username=sd2604&label=PROFILE+VIEWS&color=bca7e8&style=for-the-badge"
-  alt="Profile Views"
-/>
 
-</div>
-
+---
 
 <div align="center">
   <img
@@ -138,9 +103,7 @@
 </div>
 
 ---
-
-
-## Connect With Me
+<h2 align="center">✦ Connect With Me ✦</h2>
 
 <p align="center">
   <a href="https://github.com/sd2604">
