@@ -1,4 +1,11 @@
-[README (1).md](https://github.com/user-attachments/files/34634607/README.1.md)
+<p align="center">
+  <img
+    src="./shreya-profile.png"
+    alt="Shreya Das - Anime Developer Artwork"
+    width="75%"
+  />
+</p>
+
 <div align="center">
 
 # Hi, I'm Shreya Das 👋
