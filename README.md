@@ -6,6 +6,13 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BCA7E8&center=true&vCenter=true&width=900&lines=Computer+Science+%26+AI+Student;Full-Stack+Developer;Open+Source+Contributor;AI%2FML+Enthusiast;Exploring+Quantitative+Finance"
+    alt="Typing SVG"
+  />
+</p>
+
 ---
 
 ## About Me
@@ -80,6 +87,47 @@
 ---
 
 ## My GitHub Contributions
+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sd2604&show_icons=true&theme=tokyonight&hide_border=true&title_color=C4A7E7&icon_color=C4A7E7"
+  height="170"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd2604&layout=compact&theme=tokyonight&hide_border=true&title_color=C4A7E7"
+  height="170"
+  alt="Most Used Languages"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=sd2604&theme=tokyonight&hide_border=true&ring=C4A7E7&fire=C4A7E7"
+  width="70%"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=sd2604&label=PROFILE+VIEWS&color=bca7e8&style=for-the-badge"
+  alt="Profile Views"
+/>
+
+</div>
+
 
 <div align="center">
   <img
