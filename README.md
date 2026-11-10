@@ -89,6 +89,19 @@
 
 ---
 
+## 🐍 My GitHub Contributions
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/sd2604/sd2604/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div>
+
+---
+
+
 ## 🤝 Connect With Me
 
 <p align="center">
