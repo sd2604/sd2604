@@ -103,21 +103,21 @@
 </div>
 
 ---
-<h2 align="center">✦ Connect With Me ✦</h2>
+
+<h2 align="center">✦ Let's Connect ✦</h2>
 
 <p align="center">
   <a href="https://github.com/sd2604">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shreya-das-319403368/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-C4A7E7?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
+</p>
+
+<p align="center">
+  <i>Always open to learning, collaborating, and building something meaningful.</i>
 </p>
 
 ---
 
-<div align="center">
-
-*Build. Learn. Contribute. Repeat.* ✨
-
-</div>
